@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Voidmain858
 - 👀 I’m a smart contract developer
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on my DAO project
+- 💞️ I’m looking for collaboration on my DAO project
 - 📫 How to reach me (You can email ncubernet@gmail.com)
 - 😄 
 - ⚡ 
